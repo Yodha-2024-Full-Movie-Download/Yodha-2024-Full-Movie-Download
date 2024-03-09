@@ -11,12 +11,3 @@
   <img src="https://i.postimg.cc/Cxdw16pq/68747470733a2f2f62616e676c617264696172792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032342f30.gif">
 </a></center>
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YB97X4X1FK"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YB97X4X1FK');
-</script>
